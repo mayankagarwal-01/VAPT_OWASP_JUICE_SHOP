@@ -111,8 +111,8 @@ gobuster dir -u http://<TARGET_IP> -w directory-list-2.3-medium.txt
 ```bash
 .
 ├── images/
-├── report/
-│   └── VAPT_OWASPJuiceShop_2026.pdf
+├── VAPT_OWASPJuiceShop_2026.pdf
+├── VAPT_OWASPJuiceShop_2026.docx
 ├── README.md
 ```
 
@@ -142,6 +142,6 @@ No unauthorized testing was performed against real-world systems.
 Cybersecurity Enthusiast | Web App Pentesting | Security Research
 
 - Portfolio: https://mayankagarwalportfolio.netlify.app
-- LinkedIn: *(Add Your LinkedIn URL Here)*
+- LinkedIn: https://www.linkedin.com/in/mayankxagarwal
 
 ---
